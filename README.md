@@ -6,6 +6,7 @@ Repo para armazenar resumos sobre Git.[DIO](https://www.dio.me/)
 - [Documentação Git] (google.com)
 
 ## Resumos das Aulas
+git remote add origin <url> (push rep from command line)
 git add . (adiciona todos os arquivos à área de preparação)
 git commit -m"texto" (commita os arquivos da área de preparação)
 rm -rf (remove o .git do diretorio)
